@@ -43,6 +43,14 @@
   text-decoration: none;
 }
 
+<<<<<<< HEAD
+=======
+.email-link { 
+  color: blue !important;
+  text-decoration: underline;
+}
+
+>>>>>>> c3087c1 (new commit)
 .section {
   display: block;
   padding: 10px 20px;
@@ -104,8 +112,11 @@
   width: 32%;
   margin: 0;
 }
+<<<<<<< HEAD
 
 .email-link { 
   color: blue !important;
   text-decoration: underline;
 }
+=======
+>>>>>>> c3087c1 (new commit)
