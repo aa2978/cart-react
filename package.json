@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "assignment-3",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,18 @@
     "react-dom": "^19.0.0",
     "react-scripts": "^3.0.1",
     "web-vitals": "^2.1.4"
+=======
+<<<<<<< HEAD
+  "name": "my-react-application",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "cra-template": "1.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^3.0.1",
+    "web-vitals": "^4.2.4"
+>>>>>>> c0180d287986c71ffb777f3fa1d8bd515dd86429
   },
   "scripts": {
     "start": "react-scripts start",
@@ -39,5 +52,37 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
+<<<<<<< HEAD
+=======
+=======
+  "name": "assignment-2",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "d3": "^7.9.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "eslint": "^9.17.0",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.16",
+    "gh-pages": "^6.3.0",
+    "globals": "^15.14.0",
+    "vite": "^6.0.5"
+>>>>>>> c3087c1 (new commit)
+>>>>>>> c0180d287986c71ffb777f3fa1d8bd515dd86429
   }
 }
